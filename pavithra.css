@@ -1,0 +1,47 @@
+body
+{
+    background-color:lightblue;
+}
+h1,h2{
+    color:lightseagreen;
+
+}
+
+table#menu
+{
+    list-style-type: none;
+    display: flex;
+    color: blanchedalmond;
+    float: right;
+    
+    
+}
+
+li#menu
+{
+    float: left;
+    display: flex;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+a#menu
+{
+    display: inline;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.menu-bar
+{
+    
+    margin:10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 10px;
+    text-align: center;
+    font-size: 16px;
+}
